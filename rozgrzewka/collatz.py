@@ -13,5 +13,4 @@ def collatz(x):
 
 
 if __name__ == '__main__':
-    number = int(input("Please provide start number"))
-    collatz(number)
+    number = int(input("Please provide start n
